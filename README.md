@@ -1,4 +1,11 @@
+# THIS IS A FORK FROM ASP222
+This update only includes a gui to help create profile saves without editing the config.ini.
+
+Future updates to include ps4/vita/pc/360 might later be introduced.
+
+
 # Borderlands2PS3ProfileEditor
+
 A Python tool to modify Borderlands 2 Profile for PS3
 
 ## Instructions
